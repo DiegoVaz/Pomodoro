@@ -7,7 +7,6 @@
 O que é pomodoro ? <a href="https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro" > Link</a>.
 
 Para este aplicativo foi determinado
-
 <ul>
 <li>Tempo trabalhando: 45min</li>
 <li>Tempo descanso curto: 15min</li>
@@ -15,6 +14,7 @@ Para este aplicativo foi determinado
 <li>Ciclos: 4</li>
 </ul>
 
+<span>Caso deseje utilizar: <a href="https://diegovaz.github.io/Pomodoro/">Clique aqui!</a></span>
 </p>
 <br>
 
