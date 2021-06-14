@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73c05575.chunk.css",
+    "main.js": "/static/js/main.c6a51b41.chunk.js",
+    "main.js.map": "/static/js/main.c6a51b41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c61ccbe0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c61ccbe0.js.map",
+    "static/js/2.baac8695.chunk.js": "/static/js/2.baac8695.chunk.js",
+    "static/js/2.baac8695.chunk.js.map": "/static/js/2.baac8695.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.71242a090088b3512bdd6b377edc6ace.js": "/precache-manifest.71242a090088b3512bdd6b377edc6ace.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.73c05575.chunk.css.map": "/static/css/main.73c05575.chunk.css.map",
+    "static/js/2.baac8695.chunk.js.LICENSE.txt": "/static/js/2.baac8695.chunk.js.LICENSE.txt",
+    "static/media/src_sounds_bell-finish.mp4": "/static/media/src_sounds_bell-finish.0f576fc3.mp4",
+    "static/media/src_sounds_bell-start.mp4": "/static/media/src_sounds_bell-start.16adcf7d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c61ccbe0.js",
+    "static/js/2.baac8695.chunk.js",
+    "static/css/main.73c05575.chunk.css",
+    "static/js/main.c6a51b41.chunk.js"
+  ]
+}
